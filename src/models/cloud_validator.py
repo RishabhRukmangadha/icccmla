@@ -153,7 +153,7 @@ def run_cloud_validation(question: dict) -> CloudResponse:
     prompt        = build_validator_prompt(question)
 
     logger.info(
-        f"  [Claude Opus] Validating {question_id}"
+        f"  [Claude Sonnet] Validating {question_id}"
     )
 
     # Initialise Anthropic client
@@ -204,7 +204,7 @@ def run_cloud_validation(question: dict) -> CloudResponse:
         answer_txt = question["choices"][answer_idx]
 
         logger.info(
-            f"  [Claude Opus] {question_id} → "
+            f"  [Claude Sonnet] {question_id} → "
             f"Answer: {answer}, "
             f"Tokens: {tokens_used}, "
             f"Latency: {latency_ms:.0f}ms"
@@ -225,7 +225,7 @@ def run_cloud_validation(question: dict) -> CloudResponse:
 
     except Exception as e:
         logger.error(
-            f"Claude Opus error for {question_id}: {e}"
+            f"Claude Sonnet error for {question_id}: {e}"
         )
         latency_ms = (time.time() - start_time) * 1000
 
@@ -267,7 +267,7 @@ if __name__ == "__main__":
     }
 
     print("\n" + "="*50)
-    print("Testing Cloud Validator — Claude Opus")
+    print("Testing Cloud Validator — Claude Sonnet")
     print("="*50)
 
     result = run_cloud_validation(test_question)
