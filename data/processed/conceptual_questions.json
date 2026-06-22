@@ -1,0 +1,1502 @@
+[
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The magnetic force on a moving charged particle can change the particle's",
+    "choices": [
+      "speed",
+      "direction",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 1,
+    "answer_text": "direction",
+    "question_type": "conceptual",
+    "question_id": "conceptual_001"
+  },
+  {
+    "subset": "astronomy",
+    "split": "validation",
+    "question": "Which is the least likely cause of death?",
+    "choices": [
+      "Being hit in the head by a bullet.",
+      "Being hit by a small meteorite.",
+      "Starvation during global winter caused by a major impact.",
+      "Driving while intoxicated without wearing seatbelts."
+    ],
+    "answer": 1,
+    "answer_text": "Being hit by a small meteorite.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_002"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "When was the telescope invented by Galileo?",
+    "choices": [
+      "1409",
+      "1509",
+      "1609",
+      "1709"
+    ],
+    "answer": 2,
+    "answer_text": "1609",
+    "question_type": "conceptual",
+    "question_id": "conceptual_003"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "All of the following have been cited as evidence for the Giant Impact Hypothesis except:",
+    "choices": [
+      "The relative size of the Moon to the size of Earth is large compared to most planets and their moon.",
+      "Most rocks on the Moon\u2019s surface are older than those on the Earth\u2019s surface.",
+      "The Moon has a much smaller iron core than the Earth even considering its size.",
+      "The Moon was once entirely molten."
+    ],
+    "answer": 1,
+    "answer_text": "Most rocks on the Moon\u2019s surface are older than those on the Earth\u2019s surface.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_004"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Relativity equations for time, length, and momentum hold true for",
+    "choices": [
+      "everyday low speeds.",
+      "relativistic speeds.",
+      "Both of these.",
+      "Neither of these."
+    ],
+    "answer": 2,
+    "answer_text": "Both of these.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_005"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The factors, both of which will increase the magnetic field strength of an electromagnet, are",
+    "choices": [
+      "increased electrical current and fewer coils of wire",
+      "increased diameter of coil and an increase in the number of coils",
+      "an increase in the electrical current and using a strong ferromagnetic material like iron",
+      "using an air core instead of iron and increasing the diameter of the coil"
+    ],
+    "answer": 2,
+    "answer_text": "an increase in the electrical current and using a strong ferromagnetic material like iron",
+    "question_type": "conceptual",
+    "question_id": "conceptual_006"
+  },
+  {
+    "subset": "astronomy",
+    "split": "validation",
+    "question": "How did the lunar maria form?",
+    "choices": [
+      "The giant impact that created the Moon left smooth areas that we call the maria.",
+      "Volatiles escaping from the Moon's interior heated and eroded the surface in the regions of the maria.",
+      "The early bombardment created heat that melted the lunar surface in the regions of the maria.",
+      "Large impacts fractured the Moon's lithosphere allowing lava to fill the impact basins."
+    ],
+    "answer": 3,
+    "answer_text": "Large impacts fractured the Moon's lithosphere allowing lava to fill the impact basins.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_007"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When you look at the red petals of a rose the color light you're seeing is",
+    "choices": [
+      "red.",
+      "green.",
+      "white minus red.",
+      "a mixture of green and yellow."
+    ],
+    "answer": 0,
+    "answer_text": "red.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_008"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Radio telescopes are crucial for astronomical observations. Which one of these well-known radio telescopes has the largest parabolic antenna?",
+    "choices": [
+      "Green Bank Telescope",
+      "Arecibo Telescope",
+      "Yevpatoria RT-70 Telescope",
+      "Effelsberg Telescope"
+    ],
+    "answer": 1,
+    "answer_text": "Arecibo Telescope",
+    "question_type": "conceptual",
+    "question_id": "conceptual_009"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The compressions and rarefactions in sound normally travel",
+    "choices": [
+      "in the same direction",
+      "in opposite directions",
+      "at right angles to each other",
+      "None of these"
+    ],
+    "answer": 0,
+    "answer_text": "in the same direction",
+    "question_type": "conceptual",
+    "question_id": "conceptual_010"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)",
+    "choices": [
+      "current",
+      "voltage",
+      "electric field",
+      "All of these"
+    ],
+    "answer": 3,
+    "answer_text": "All of these",
+    "question_type": "conceptual",
+    "question_id": "conceptual_011"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Two vectors, one 3 N and the other 4 N, can have a resultant of",
+    "choices": [
+      "0 N",
+      "5 N",
+      "8 N",
+      "Any of these"
+    ],
+    "answer": 1,
+    "answer_text": "5 N",
+    "question_type": "conceptual",
+    "question_id": "conceptual_012"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The equation E = mc^2 indicates that energy",
+    "choices": [
+      "equals mass moving at the speed of light squared.",
+      "equals moving mass.",
+      "is fundamentally different than mass.",
+      "and mass are closely related."
+    ],
+    "answer": 3,
+    "answer_text": "and mass are closely related.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_013"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The surface of Planet Earth loses energy to outer space due mostly to",
+    "choices": [
+      "conduction.",
+      "convection.",
+      "radiation.",
+      "radioactivity."
+    ],
+    "answer": 2,
+    "answer_text": "radiation.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_014"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Most people use C\u00b0(degree Celsius) to measure everyday temperatures. Astronomers prefer to use K (Kelvin) to measure temperatures. Approximately how many Kelvin are 25 C\u00b0?",
+    "choices": [
+      "200 Kelvin",
+      "250 Kelvin",
+      "300 Kelvin",
+      "350 Kelvin"
+    ],
+    "answer": 2,
+    "answer_text": "300 Kelvin",
+    "question_type": "conceptual",
+    "question_id": "conceptual_015"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Which is not an essential requirement for life as we know it?",
+    "choices": [
+      "The ability to breathe oxygen",
+      "The ability to make energy from sunlight or to eat things that do",
+      "A source of organic molecules",
+      "A and B"
+    ],
+    "answer": 3,
+    "answer_text": "A and B",
+    "question_type": "conceptual",
+    "question_id": "conceptual_016"
+  },
+  {
+    "subset": "astronomy",
+    "split": "validation",
+    "question": "The Coriolis effect is observed on planets because",
+    "choices": [
+      "they are rotating and spherical so different latitudes rotate at different speeds (meters/second)",
+      "their surfaces rotate at the same speed (meters/second) at all latitudes",
+      "they rotate and have magnetic fields",
+      "the solar wind interacts with their magnetospheres"
+    ],
+    "answer": 0,
+    "answer_text": "they are rotating and spherical so different latitudes rotate at different speeds (meters/second)",
+    "question_type": "conceptual",
+    "question_id": "conceptual_017"
+  },
+  {
+    "subset": "astronomy",
+    "split": "validation",
+    "question": "What dangers are currently faced by each Mars Exploration Rover?",
+    "choices": [
+      "Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit's instruments are being corroded by the acidic hot spring environment it is exploring.",
+      "Opportunity may not be able to move its arm again; Spirit may not be able to drive out of Victoria Crater due to its broken sixth wheel.",
+      "Opportunity may not be able to drive out of Victoria Crater due to its broken sixth wheel; Spirit may not get enough solar power during the winter months immediately ahead.",
+      "Opportunity may not be able to move its arm again; Spirit may not get enough solar power during the winter months immediately ahead."
+    ],
+    "answer": 3,
+    "answer_text": "Opportunity may not be able to move its arm again; Spirit may not get enough solar power during the winter months immediately ahead.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_018"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "A sand bag has a mass of 5kg and weight 50N on Earth. What is the mass and weight of this sand bag on a planet with half the gravity compared to Earth?",
+    "choices": [
+      "Mass 5kg weight 100N",
+      "Mass 5kg weight 50N",
+      "Mass 5kg weight 25N",
+      "Mass 10kg weight 100N"
+    ],
+    "answer": 2,
+    "answer_text": "Mass 5kg weight 25N",
+    "question_type": "conceptual",
+    "question_id": "conceptual_019"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "validation",
+    "question": "When energy is released by the process of fusion, the total mass of the material after the event is",
+    "choices": [
+      "less",
+      "the same",
+      "more",
+      "zero"
+    ],
+    "answer": 0,
+    "answer_text": "less",
+    "question_type": "conceptual",
+    "question_id": "conceptual_020"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A common nuclear fission reactor",
+    "choices": [
+      "heats water",
+      "generates electricity directly",
+      "gets energy from nothing",
+      "is a major polluter of the atmosphere"
+    ],
+    "answer": 0,
+    "answer_text": "heats water",
+    "question_type": "conceptual",
+    "question_id": "conceptual_021"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Which of the following most likely explains why Venus does not have a strong magnetic field?",
+    "choices": [
+      "Its rotation is too slow.",
+      "It has too thick an atmosphere.",
+      "It is too large.",
+      "It does not have a metallic core."
+    ],
+    "answer": 0,
+    "answer_text": "Its rotation is too slow.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_022"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A simple and correct way to comprehend satellites orbiting Earth is to view them as",
+    "choices": [
+      "balanced between gravitational and centripetal forces.",
+      "beyond the main pull of Earth gravity.",
+      "in mechanical equilibrium with a net force of zero.",
+      "having sufficient tangential velocities to fall around rather than into Earth."
+    ],
+    "answer": 3,
+    "answer_text": "having sufficient tangential velocities to fall around rather than into Earth.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_023"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Heat comes from the Sun to Earth by the process of",
+    "choices": [
+      "conduction",
+      "convection",
+      "radiation",
+      "All of these, although radiation is greatest"
+    ],
+    "answer": 2,
+    "answer_text": "radiation",
+    "question_type": "conceptual",
+    "question_id": "conceptual_024"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The component of velocity that can remain constant for a tossed baseball is",
+    "choices": [
+      "horizontal",
+      "vertical",
+      "Either of these",
+      "None of these"
+    ],
+    "answer": 0,
+    "answer_text": "horizontal",
+    "question_type": "conceptual",
+    "question_id": "conceptual_025"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Microscopic slush in water tends to make the water",
+    "choices": [
+      "more dense",
+      "less dense",
+      "more slippery",
+      "warmer"
+    ],
+    "answer": 0,
+    "answer_text": "more dense",
+    "question_type": "conceptual",
+    "question_id": "conceptual_026"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of",
+    "choices": [
+      "gamma radiation.",
+      "kinetic energy of the alpha particle.",
+      "kinetic energy of the neutron.",
+      "All of these about equally."
+    ],
+    "answer": 2,
+    "answer_text": "kinetic energy of the neutron.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_027"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "The star Betelgeuse is one of the brightest stars in the night sky with remarkable red color. In which constellation is Betelgeuse located?",
+    "choices": [
+      "Cassiopeia",
+      "Cygnus",
+      "Ursa Major",
+      "Orion"
+    ],
+    "answer": 3,
+    "answer_text": "Orion",
+    "question_type": "conceptual",
+    "question_id": "conceptual_028"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "What is the Cassini division of Saturn's rings?",
+    "choices": [
+      "a dark ring visible from Earth composed of dark dusty particles",
+      "the most opaque ring of Saturn made of highly reflective ice particles",
+      "the widest ring of Saturn located between two large ring gaps",
+      "a large gap visible from Earth produced by an orbital resonance with the moon Mimas"
+    ],
+    "answer": 3,
+    "answer_text": "a large gap visible from Earth produced by an orbital resonance with the moon Mimas",
+    "question_type": "conceptual",
+    "question_id": "conceptual_029"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "What is the source of the material that causes meteor showers?",
+    "choices": [
+      "Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower.",
+      "Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky.",
+      "The nuclei of comets disintigrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a central location in the sky.",
+      "The nuclei of comets gradually disintegrate and spread out along the comet's orbital path. When the Earth passes through the orbit of a comet we are bombarded by sand-sized particles which cause a meteor shower."
+    ],
+    "answer": 3,
+    "answer_text": "The nuclei of comets gradually disintegrate and spread out along the comet's orbital path. When the Earth passes through the orbit of a comet we are bombarded by sand-sized particles which cause a meteor shower.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_030"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "If you travel at high speed, then compared with your friends who \u201cstay at home,\u201d you are",
+    "choices": [
+      "older.",
+      "younger.",
+      "neither younger nor older.",
+      "longer."
+    ],
+    "answer": 1,
+    "answer_text": "younger.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_031"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "What is the source of the material that causes meteor showers?",
+    "choices": [
+      "Asteroid impacts elsewhere in the solar system throw sand-sized particles into space and occasionally the Earth passes through a cloud of these particles which burn up in our atmosphere and cause a meteor shower.",
+      "Near-Earth asteroids gradually disintegrate and spread out along their orbital paths. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles that cause a meteor shower.",
+      "Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky.",
+      "The nuclei of comets gradually disintegrate and spread out along their orbital paths. When the Earth passes through the orbit of an comet we are bombarded by sand-sized particles that cause a meteor shower."
+    ],
+    "answer": 3,
+    "answer_text": "The nuclei of comets gradually disintegrate and spread out along their orbital paths. When the Earth passes through the orbit of an comet we are bombarded by sand-sized particles that cause a meteor shower.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_032"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Planetary rings are",
+    "choices": [
+      "known to exist for all of the jovian planets.",
+      "composed of a large number of individual particles that orbit their planet in accord with Kepler's third law.",
+      "nearer to their planet than any of the planet's large moons.",
+      "all of the above"
+    ],
+    "answer": 3,
+    "answer_text": "all of the above",
+    "question_type": "conceptual",
+    "question_id": "conceptual_033"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Light reflecting from a smooth surface undergoes a change in",
+    "choices": [
+      "frequency.",
+      "wavelength.",
+      "All of these.",
+      "None of these."
+    ],
+    "answer": 3,
+    "answer_text": "None of these.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_034"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Venus shows evidence of which of the following surface processes?",
+    "choices": [
+      "Impacts",
+      "Erosion",
+      "Volcanism",
+      "A B and C"
+    ],
+    "answer": 3,
+    "answer_text": "A B and C",
+    "question_type": "conceptual",
+    "question_id": "conceptual_035"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When you scale up an object to 3 times its linear size, the surface area increases by",
+    "choices": [
+      "3 and the volume by 9.",
+      "3 and the volume by 27.",
+      "9 and the volume by 27.",
+      "4 and the volume by 8."
+    ],
+    "answer": 2,
+    "answer_text": "9 and the volume by 27.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_036"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "An electron can be speeded up by",
+    "choices": [
+      "an electric field",
+      "a magnetic field",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 0,
+    "answer_text": "an electric field",
+    "question_type": "conceptual",
+    "question_id": "conceptual_037"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A satellite in Earth orbit is above Earth\u2019s",
+    "choices": [
+      "atmosphere",
+      "gravitational field",
+      "Both",
+      "Neither"
+    ],
+    "answer": 0,
+    "answer_text": "atmosphere",
+    "question_type": "conceptual",
+    "question_id": "conceptual_038"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A magnetic force acting on a beam of electrons can change its",
+    "choices": [
+      "direction",
+      "energy",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 0,
+    "answer_text": "direction",
+    "question_type": "conceptual",
+    "question_id": "conceptual_039"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "validation",
+    "question": "From quantum mechanics we learn that a radioactive nucleus is governed by",
+    "choices": [
+      "Newton\u2019s laws",
+      "probability",
+      "certainty",
+      "no laws at all"
+    ],
+    "answer": 1,
+    "answer_text": "probability",
+    "question_type": "conceptual",
+    "question_id": "conceptual_040"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "validation",
+    "question": "Which process would release energy from gold: fission or fusion? From carbon?",
+    "choices": [
+      "Gold: fission; carbon: fusion",
+      "Gold: fusion; carbon: fission",
+      "Gold: fission; carbon: fission",
+      "Gold: fusion; carbon: fusion"
+    ],
+    "answer": 0,
+    "answer_text": "Gold: fission; carbon: fusion",
+    "question_type": "conceptual",
+    "question_id": "conceptual_041"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Compared with the power input, the power output of an ideal transformer is",
+    "choices": [
+      "greater",
+      "less",
+      "the same",
+      "Any of these"
+    ],
+    "answer": 2,
+    "answer_text": "the same",
+    "question_type": "conceptual",
+    "question_id": "conceptual_042"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Why did Ptolemy have the planets orbiting Earth on \u2018circles upon circles\u2019 in his model of the universe?",
+    "choices": [
+      "To explain why more distant planets take longer to make a circuit through the constellations of the zodiac.",
+      "To explain the fact that planets sometimes appear to move westward rather than eastward relative to the stars in our sky.",
+      "To explain why the Greeks were unable to detect stellar paralax.",
+      "To properly account for the varying distances of the planets from Earth."
+    ],
+    "answer": 1,
+    "answer_text": "To explain the fact that planets sometimes appear to move westward rather than eastward relative to the stars in our sky.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_043"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "According to Hooke\u2019s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces",
+    "choices": [
+      "half the bend.",
+      "the same bend if the branch doesn\u2019t break.",
+      "twice the bend.",
+      "4 times the bend."
+    ],
+    "answer": 2,
+    "answer_text": "twice the bend.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_044"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Which of these changes when light refracts in passing from one medium to another?",
+    "choices": [
+      "Speed only",
+      "Wavelength only",
+      "Both speed and wavelength",
+      "Neither of these"
+    ],
+    "answer": 2,
+    "answer_text": "Both speed and wavelength",
+    "question_type": "conceptual",
+    "question_id": "conceptual_045"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Regelation occurs due to water\u2019s",
+    "choices": [
+      "high specific heat",
+      "open-structured ice crystals",
+      "high rate of expansion",
+      "slight tendency to freeze when its temperature is lowered"
+    ],
+    "answer": 1,
+    "answer_text": "open-structured ice crystals",
+    "question_type": "conceptual",
+    "question_id": "conceptual_046"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Why is it thought that the climate on Mars changed when the planet lost its strong magnetic field?",
+    "choices": [
+      "without a strong magnetic field the ozone layer was destroyed by the solar wind which stopped the greenhouse effect and cooled Mars down.",
+      "without a strong magnetic field which enhances the greenhouse effect Mars cooled down.",
+      "without a strong magnetic field the solar wind stripped away most of the atmosphere significantly reducing the greenhouse effect and cooling Mars down",
+      "without a strong magnetic field the planet recieves fewer charged particles from the solar wind and therefore is not heated as much"
+    ],
+    "answer": 2,
+    "answer_text": "without a strong magnetic field the solar wind stripped away most of the atmosphere significantly reducing the greenhouse effect and cooling Mars down",
+    "question_type": "conceptual",
+    "question_id": "conceptual_047"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be",
+    "choices": [
+      "one-quarter the value for a tube open at both ends",
+      "one-half the value for a tube open at both ends",
+      "twice the value for a tube open at both ends",
+      "four times the value for a tube open at both ends"
+    ],
+    "answer": 1,
+    "answer_text": "one-half the value for a tube open at both ends",
+    "question_type": "conceptual",
+    "question_id": "conceptual_048"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Earth has been gradually warming over the past few decades. Based on a great deal of evidence scientists conclude that this warming is caused by ________.",
+    "choices": [
+      "human activities that are increasing the concentration of greenhouse gases in Earth's atmosphere",
+      "the fact that our politicians spout a lot of hot air",
+      "the human release of chemicals called CFCs into the stratosphere",
+      "the increase in forest fires during recent years"
+    ],
+    "answer": 0,
+    "answer_text": "human activities that are increasing the concentration of greenhouse gases in Earth's atmosphere",
+    "question_type": "conceptual",
+    "question_id": "conceptual_049"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When an element ejects a beta particle, the atomic number of that element",
+    "choices": [
+      "reduces by 1",
+      "increases by 1",
+      "reduces by 2",
+      "increases by 2"
+    ],
+    "answer": 1,
+    "answer_text": "increases by 1",
+    "question_type": "conceptual",
+    "question_id": "conceptual_050"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Jupiter and the other jovian planets are sometimes called \"gas giants.\" In what sense is this term misleading?",
+    "choices": [
+      "The materials they are made of are not normally gaseous in everyday experience.",
+      "They actually contain a significant fraction of non-gaseous matter.",
+      "The materials that make up these planets are primarily in the form of a plasma not a gas.",
+      "Actually it's a great description because these worlds are big and gaseous throughout."
+    ],
+    "answer": 1,
+    "answer_text": "They actually contain a significant fraction of non-gaseous matter.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_051"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When an increase in speed doubles the momentum of a moving body its kinetic energy",
+    "choices": [
+      "increases but less than doubles",
+      "doubles",
+      "more than doubles",
+      "depends on factors not stated"
+    ],
+    "answer": 2,
+    "answer_text": "more than doubles",
+    "question_type": "conceptual",
+    "question_id": "conceptual_052"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "To receive an electric shock there must be a",
+    "choices": [
+      "current in one direction.",
+      "presence of moisture.",
+      "high voltage and low body resistance.",
+      "voltage difference across part or all of your body."
+    ],
+    "answer": 3,
+    "answer_text": "voltage difference across part or all of your body.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_053"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The complementary color of blue is",
+    "choices": [
+      "magenta",
+      "yellow",
+      "cyan",
+      "white"
+    ],
+    "answer": 1,
+    "answer_text": "yellow",
+    "question_type": "conceptual",
+    "question_id": "conceptual_054"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Which planet(s) in the solar system has/have active plate tectonics?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Mars and Earth"
+    ],
+    "answer": 2,
+    "answer_text": "Earth",
+    "question_type": "conceptual",
+    "question_id": "conceptual_055"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "validation",
+    "question": "A high-temperature source radiates relatively",
+    "choices": [
+      "short wavelengths",
+      "long wavelengths",
+      "low frequencies of radiation",
+      "None of these"
+    ],
+    "answer": 0,
+    "answer_text": "short wavelengths",
+    "question_type": "conceptual",
+    "question_id": "conceptual_056"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Which of the following is/are true?",
+    "choices": [
+      "Titan is the only outer solar system moon with a thick atmosphere",
+      "Titan is the only outer solar system moon with evidence for recent geologic activity",
+      "Titan's atmosphere is composed mostly of hydrocarbons",
+      "A and D"
+    ],
+    "answer": 3,
+    "answer_text": "A and D",
+    "question_type": "conceptual",
+    "question_id": "conceptual_057"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The phenomenon of beats results from sound",
+    "choices": [
+      "reflection.",
+      "refraction.",
+      "interference.",
+      "All of these."
+    ],
+    "answer": 1,
+    "answer_text": "refraction.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_058"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Which of the following is not true?",
+    "choices": [
+      "The Earth and Venus are in a 1:1 orbital resonance (for every 1 Earth orbit there is exactly 1 Venus orbit)",
+      "Neptune and Pluto are in a 3:2 orbital resonance (for every 3 Neptune orbits there are exactly 2 Pluto orbits)",
+      "The Kirkwood Gaps in the asteroid belt are due to resonances with Jupiter",
+      "Neptune and Pluto won't collide because of their orbital resonance"
+    ],
+    "answer": 0,
+    "answer_text": "The Earth and Venus are in a 1:1 orbital resonance (for every 1 Earth orbit there is exactly 1 Venus orbit)",
+    "question_type": "conceptual",
+    "question_id": "conceptual_059"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Among these colors, the one that has the most energy per photon is",
+    "choices": [
+      "red",
+      "yellow-green",
+      "blue",
+      "violet"
+    ],
+    "answer": 3,
+    "answer_text": "violet",
+    "question_type": "conceptual",
+    "question_id": "conceptual_060"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "What are the conditions necessary for a terrestrial planet to have a strong magnetic field?",
+    "choices": [
+      "fast rotation only",
+      "a rocky mantle only",
+      "a molten metallic core only",
+      "both a molten metallic core and reasonably fast rotation"
+    ],
+    "answer": 3,
+    "answer_text": "both a molten metallic core and reasonably fast rotation",
+    "question_type": "conceptual",
+    "question_id": "conceptual_061"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "The famous Drake equation attempts to answer the following question:",
+    "choices": [
+      "Will the Sun become a black hole?",
+      "Is the universe infinitely large?",
+      "How old is the visible universe?",
+      "Are we alone in the universe?"
+    ],
+    "answer": 3,
+    "answer_text": "Are we alone in the universe?",
+    "question_type": "conceptual",
+    "question_id": "conceptual_062"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The loudness of a sound is most closely related to its",
+    "choices": [
+      "frequency",
+      "period",
+      "wavelength",
+      "amplitude"
+    ],
+    "answer": 3,
+    "answer_text": "amplitude",
+    "question_type": "conceptual",
+    "question_id": "conceptual_063"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "How do scientists know that the majority of meteorites come from the asteroid belt?",
+    "choices": [
+      "The spectra of some meteorites are similar to the spectra of asteroids in the asteroid belt.",
+      "The asteroid belt is the only possible source of meteorites therefore they must originate there.",
+      "Collisions are common in the asteroid belt and we can track the fragments from their source asteroid to the Earth where they become meteorites.",
+      "High levels of Iridum have been detected in both asteroids and meteorites therefore meteorites come from the asteroid belt."
+    ],
+    "answer": 0,
+    "answer_text": "The spectra of some meteorites are similar to the spectra of asteroids in the asteroid belt.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_064"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "What is the second most common element in the solar system?",
+    "choices": [
+      "Iron",
+      "Hydrogen",
+      "Methane",
+      "Helium"
+    ],
+    "answer": 3,
+    "answer_text": "Helium",
+    "question_type": "conceptual",
+    "question_id": "conceptual_065"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The crystals that make up minerals are composed of",
+    "choices": [
+      "atoms with a definite geometrical arrangement.",
+      "molecules that perpetually move.",
+      "X-ray patterns.",
+      "3-dimensional chessboards."
+    ],
+    "answer": 0,
+    "answer_text": "atoms with a definite geometrical arrangement.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_066"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "You observe the visible spectrum of a star viewed through a cloud of cool hydrogen gas.",
+    "choices": [
+      "You see only the star\u2019s blackbody spectrum.",
+      "You see the star\u2019s blackbody spectrum with absorption lines due to hydrogen.",
+      "You see only emission lines characteristic of hydrogen.",
+      "You see only emission lines characteristic of the star\u2019s composition."
+    ],
+    "answer": 1,
+    "answer_text": "You see the star\u2019s blackbody spectrum with absorption lines due to hydrogen.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_067"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When red and blue light are overlapped, the color produced is",
+    "choices": [
+      "magenta",
+      "yellow",
+      "cyan",
+      "white"
+    ],
+    "answer": 0,
+    "answer_text": "magenta",
+    "question_type": "conceptual",
+    "question_id": "conceptual_068"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be",
+    "choices": [
+      "2 Hz",
+      "4 Hz",
+      "8 Hz",
+      "16 Hz"
+    ],
+    "answer": 1,
+    "answer_text": "4 Hz",
+    "question_type": "conceptual",
+    "question_id": "conceptual_069"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Huygens\u2019 principle for light is primarily described by",
+    "choices": [
+      "waves",
+      "rays",
+      "particles",
+      "photons"
+    ],
+    "answer": 0,
+    "answer_text": "waves",
+    "question_type": "conceptual",
+    "question_id": "conceptual_070"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The rotational inertia of an object is greater when most of the mass is located",
+    "choices": [
+      "near the rotational axis",
+      "away from the axis",
+      "on the rotational axis",
+      "off center"
+    ],
+    "answer": 1,
+    "answer_text": "away from the axis",
+    "question_type": "conceptual",
+    "question_id": "conceptual_071"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A capacitor can store",
+    "choices": [
+      "charge",
+      "energy",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 2,
+    "answer_text": "Both of these",
+    "question_type": "conceptual",
+    "question_id": "conceptual_072"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Boiling and freezing occur when water is subjected to",
+    "choices": [
+      "decreased temperatures",
+      "decreased atmospheric pressure",
+      "increased temperatures",
+      "increased atmospheric pressure"
+    ],
+    "answer": 1,
+    "answer_text": "decreased atmospheric pressure",
+    "question_type": "conceptual",
+    "question_id": "conceptual_073"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A completely submerged object always displaces its own",
+    "choices": [
+      "weight of fluid.",
+      "volume of fluid.",
+      "density of fluid.",
+      "All of these."
+    ],
+    "answer": 1,
+    "answer_text": "volume of fluid.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_074"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "How do astronomers think Jupiter generates its internal heat?",
+    "choices": [
+      "through exothermic chemical reactions converting chemical potential energy into thermal energy",
+      "nuclear fusion",
+      "by contracting changing gravitational potential energy into thermal energy",
+      "internal friction due to its rapid rotation rate and differential rotation"
+    ],
+    "answer": 2,
+    "answer_text": "by contracting changing gravitational potential energy into thermal energy",
+    "question_type": "conceptual",
+    "question_id": "conceptual_075"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "validation",
+    "question": "A 5.0 kg mass is placed in an elevator that is accelerating upwards at 4.0 m/s2. The apparent weight of this mass is",
+    "choices": [
+      "20. N",
+      "29 N",
+      "49 N",
+      "69 N"
+    ],
+    "answer": 3,
+    "answer_text": "69 N",
+    "question_type": "conceptual",
+    "question_id": "conceptual_076"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When you buy a pipe in a hardware store, the water isn\u2019t included. When you buy copper wire, electrons",
+    "choices": [
+      "must be supplied by you",
+      "are included in the wire",
+      "may fall out\u2014hence insulation",
+      "None of these"
+    ],
+    "answer": 1,
+    "answer_text": "are included in the wire",
+    "question_type": "conceptual",
+    "question_id": "conceptual_077"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "validation",
+    "question": "A hologram best illustrates",
+    "choices": [
+      "polarization",
+      "diffraction",
+      "superposition",
+      "electron interference"
+    ],
+    "answer": 1,
+    "answer_text": "diffraction",
+    "question_type": "conceptual",
+    "question_id": "conceptual_078"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Black is the combination of",
+    "choices": [
+      "all the colors together",
+      "two or more appropriate colors",
+      "light when a prism is held upside down",
+      "None of these"
+    ],
+    "answer": 3,
+    "answer_text": "None of these",
+    "question_type": "conceptual",
+    "question_id": "conceptual_079"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Which of the following is/are NOT caused by orbital resonance?",
+    "choices": [
+      "2:3 periodic ratio of Neptune:Pluto",
+      "Kirkwood Gaps.",
+      "Gaps in Saturn's rings.",
+      "Breaking of small Jovian moons to form ring materials."
+    ],
+    "answer": 3,
+    "answer_text": "Breaking of small Jovian moons to form ring materials.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_080"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When light undergoes interference, it can sometimes",
+    "choices": [
+      "build up to more than the sum of amplitudes",
+      "cancel completely",
+      "Both of these",
+      "Neither of these"
+    ],
+    "answer": 1,
+    "answer_text": "cancel completely",
+    "question_type": "conceptual",
+    "question_id": "conceptual_081"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Why did the solar nebula heat up as it collapsed?",
+    "choices": [
+      "Collisions among planetesimals generated friction and heat.",
+      "Radiation from other nearby stars that had formed earlier heated the nebula.",
+      "The shock wave from a nearby supernova heated the gas.",
+      "As the cloud shrank its gravitational potential energy was converted to kinetic energy and then into thermal energy."
+    ],
+    "answer": 3,
+    "answer_text": "As the cloud shrank its gravitational potential energy was converted to kinetic energy and then into thermal energy.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_082"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "The belts and zones of Jupiter are",
+    "choices": [
+      "names for the layers of gaseous and metallic hydrogen deep within the planet.",
+      "alternating bands of rising and falling air at different latitudes.",
+      "alternating regions of charged particles in Jupiter's magnetic field.",
+      "regions of the plasma torus created by ions from Io's volcanoes"
+    ],
+    "answer": 1,
+    "answer_text": "alternating bands of rising and falling air at different latitudes.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_083"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "According to the Solar Nebular theory what are asteroids and comets?",
+    "choices": [
+      "They are the shattered remains of collisions between planets.",
+      "They are chunks of rock or ice that condensed long after the planets and moons had formed.",
+      "They are chunks of rock or ice that were expelled from planets by volcanoes.",
+      "They are leftover planetesimals that never accreted into planets."
+    ],
+    "answer": 3,
+    "answer_text": "They are leftover planetesimals that never accreted into planets.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_084"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "If the current in the filament of a lamp is 3 A, the current in the connecting wire is",
+    "choices": [
+      "less than 3 A",
+      "3 A",
+      "more than 3 A",
+      "Not enough information to say"
+    ],
+    "answer": 1,
+    "answer_text": "3 A",
+    "question_type": "conceptual",
+    "question_id": "conceptual_085"
+  },
+  {
+    "subset": "astronomy",
+    "split": "dev",
+    "question": "Say the pupil of your eye has a diameter of 5 mm and you have a telescope with an aperture of 50 cm. How much more light can the telescope gather than your eye?",
+    "choices": [
+      "10000 times more",
+      "100 times more",
+      "1000 times more",
+      "10 times more"
+    ],
+    "answer": 0,
+    "answer_text": "10000 times more",
+    "question_type": "conceptual",
+    "question_id": "conceptual_086"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is",
+    "choices": [
+      "9.8 m/s2",
+      "more than 9.8 m/s2",
+      "less than 9.8 m/s2",
+      "Cannot say unless the speed of throw is given."
+    ],
+    "answer": 0,
+    "answer_text": "9.8 m/s2",
+    "question_type": "conceptual",
+    "question_id": "conceptual_087"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "The period of a 10-Hz wave is",
+    "choices": [
+      "1/10 s",
+      "1.0 s",
+      "10 s",
+      "None of these"
+    ],
+    "answer": 0,
+    "answer_text": "1/10 s",
+    "question_type": "conceptual",
+    "question_id": "conceptual_088"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Why does the plasma (ion) tail of a comet always point away from the Sun?",
+    "choices": [
+      "Radiation pressure from the Sun's light pushes the ions away.",
+      "The conservation of the angular momentum in the tail keeps it always pointing away from the Sun.",
+      "The ions are following Keplerian orbits that lead away from the Sun.",
+      "The solar wind electromagnetically \"blows\" the ions directly away from the Sun."
+    ],
+    "answer": 3,
+    "answer_text": "The solar wind electromagnetically \"blows\" the ions directly away from the Sun.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_089"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "A comet of mass m impacts the earth (mass M radius R) at the minimum impact speed. What is the expression for the total energy released in the impact?",
+    "choices": [
+      "m*v",
+      "0.5*m/(R^3)",
+      "0.5*m*(2GM/R)",
+      "0.6*G(M^2)/R"
+    ],
+    "answer": 2,
+    "answer_text": "0.5*m*(2GM/R)",
+    "question_type": "conceptual",
+    "question_id": "conceptual_090"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A 10-N force at an angle 45\u00b0 above the horizontal has a horizontal component of about",
+    "choices": [
+      "7 N",
+      "5 N",
+      "10 N",
+      "12 N"
+    ],
+    "answer": 0,
+    "answer_text": "7 N",
+    "question_type": "conceptual",
+    "question_id": "conceptual_091"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Which of the following is not one of nor follows directly from Kepler's laws?",
+    "choices": [
+      "As a planet moves around its orbit it sweeps out equal areas in equal times.",
+      "The orbit of each planet about the Sun is an ellipse with the Sun at one focus.",
+      "The force of attraction between any two objects decreases with the square of the distance between their centers.",
+      "A planet travels faster when it is nearer to the Sun and slower when it is farther from the Sun."
+    ],
+    "answer": 2,
+    "answer_text": "The force of attraction between any two objects decreases with the square of the distance between their centers.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_092"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "In either a fission event or a fusion event, a quantity that remains unchanged is the",
+    "choices": [
+      "kinetic energy",
+      "mass",
+      "number of nucleons",
+      "binding of nucleons"
+    ],
+    "answer": 2,
+    "answer_text": "number of nucleons",
+    "question_type": "conceptual",
+    "question_id": "conceptual_093"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "validation",
+    "question": "The greenhouse gases that contribute to global warming are",
+    "choices": [
+      "water vapor",
+      "carbon dioxide",
+      "Both",
+      "Neither"
+    ],
+    "answer": 2,
+    "answer_text": "Both",
+    "question_type": "conceptual",
+    "question_id": "conceptual_094"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A wave transfers",
+    "choices": [
+      "amplitude",
+      "wavelength",
+      "frequency",
+      "energy"
+    ],
+    "answer": 3,
+    "answer_text": "energy",
+    "question_type": "conceptual",
+    "question_id": "conceptual_095"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "20000 years from now ...",
+    "choices": [
+      "The Moon will be closer to the Earth and the Earth\u2019s day will be longer.",
+      "The Moon will be closer to the Earth and the Earth\u2019s day will be shorter.",
+      "The Moon will be further from the Earth and the Earth\u2019s day will be longer.",
+      "The Moon will be further from the Earth and the Earth\u2019s day will be shorter."
+    ],
+    "answer": 2,
+    "answer_text": "The Moon will be further from the Earth and the Earth\u2019s day will be longer.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_096"
+  },
+  {
+    "subset": "astronomy",
+    "split": "test",
+    "question": "Approximately how long does it take Pluto to orbit the Sun once?",
+    "choices": [
+      "150 years",
+      "200 years",
+      "250 years",
+      "300 years"
+    ],
+    "answer": 2,
+    "answer_text": "250 years",
+    "question_type": "conceptual",
+    "question_id": "conceptual_097"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "As more lamps are connected in parallel in a circuit the current in the power source",
+    "choices": [
+      "increases.",
+      "decreases.",
+      "remains much the same.",
+      "Need more information."
+    ],
+    "answer": 0,
+    "answer_text": "increases.",
+    "question_type": "conceptual",
+    "question_id": "conceptual_098"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about",
+    "choices": [
+      "10 m/s",
+      "14 m/s",
+      "16 m/s",
+      "20 m/s"
+    ],
+    "answer": 1,
+    "answer_text": "14 m/s",
+    "question_type": "conceptual",
+    "question_id": "conceptual_099"
+  },
+  {
+    "subset": "conceptual_physics",
+    "split": "test",
+    "question": "Put a saucer of water on your table. A process that then occurs is",
+    "choices": [
+      "evaporation",
+      "condensation",
+      "Both",
+      "Neither"
+    ],
+    "answer": 2,
+    "answer_text": "Both",
+    "question_type": "conceptual",
+    "question_id": "conceptual_100"
+  }
+]

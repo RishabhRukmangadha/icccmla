@@ -1,0 +1,1502 @@
+[
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A fluid of density \u03c1 flows through a horizontal pipe with negligible viscosity. The flow is streamlined with constant flow rate. The diameter of the pipe at Point 1 is d and the flow speed is V. If the diameter of the pipe at Point 2 is d/3, then the pressure at Point 2 is",
+    "choices": [
+      "less than the pressure at Point 1 by 4 \u03c1v^2",
+      "less than the pressure at Point 1 by 40 \u03c1v^2",
+      "more than the pressure at Point 1 by 4 \u03c1v^2",
+      "more than the pressure at Point 1 by 40 \u03c1v^2"
+    ],
+    "answer": 1,
+    "answer_text": "less than the pressure at Point 1 by 40 \u03c1v^2",
+    "question_type": "formula_based",
+    "question_id": "formula_based_001"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "When hot water is poured into a beaker containing cold alcohol, the temperature of the mixture will eventually reach the same temperature. Considering the scale of the size of the molecules of the fluids, which of the following is the primary reason for this phenomenon?",
+    "choices": [
+      "The high temperature water will rise to the top of the container until it has cooled and then mixes with the alcohol.",
+      "The molecules of the water continue to have a higher kinetic energy than the molecules of the alcohol, but the two liquids mix until the energy is spread evenly throughout the container.",
+      "The hot water produces thermal radiation that is absorbed by the cold alcohol until the kinetic energy of all the molecules is the same.",
+      "The water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same."
+    ],
+    "answer": 3,
+    "answer_text": "The water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_002"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Heat is added to a cylindrical aluminum rod of radius Q and length \u2113. The temperature difference between the two ends of the rod varies from 10\u00b0C to 20\u00b0C. What geometric factors will influence the rate heat is transferred along the rod?",
+    "choices": [
+      "Only the length",
+      "Only the area of the rod",
+      "Both the length and area",
+      "Neither the length nor area"
+    ],
+    "answer": 2,
+    "answer_text": "Both the length and area",
+    "question_type": "formula_based",
+    "question_id": "formula_based_003"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A student pushes a puck across a table, moving it from position x = 0 to position x = 0.2 m. After he lets go, the puck continues to travel across the table, coming to rest at position x = 1.2 m. When the puck is at position x = 1.0 m, which of the following is a correct assertion about the net force on the puck?",
+    "choices": [
+      "The net force is in the negative direction, because the puck is moving in the positive direction but slowing down.",
+      "The net force is down, because the puck is near the Earth, where gravitational acceleration is 10 m/s^2 downward.",
+      "The net force is in the positive direction, because the student\u2019s push caused the puck to speed up in the positive direction.",
+      "The net force is zero, because the student\u2019s push in the positive direction must equal the force of friction in the negative direction."
+    ],
+    "answer": 0,
+    "answer_text": "The net force is in the negative direction, because the puck is moving in the positive direction but slowing down.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_004"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A table supports a wooden block placed on the tabletop. Which fundamental force of nature is responsible for this interaction, and why?",
+    "choices": [
+      "The electric force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood.",
+      "The gravitational force, because by F = GMm/r^2, the force of the table on the wood at that close range is sufficient to balance the force of the Earth on the wood.",
+      "The electric force, because the outer electrons in the top atomic layer of the table repel the outer electrons in the bottom atomic layer of the wood.",
+      "The strong nuclear force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood."
+    ],
+    "answer": 2,
+    "answer_text": "The electric force, because the outer electrons in the top atomic layer of the table repel the outer electrons in the bottom atomic layer of the wood.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_005"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "If two non-zero vectors are added together, and the resultant vector is zero, what must be true of the two vectors?",
+    "choices": [
+      "They have equal magnitude and are pointed in the same direction.",
+      "They have equal magnitude and are pointed in opposite directions.",
+      "They have different magnitudes and are pointed in opposite directions.",
+      "It is not possible for the sum of two non-zero vectors to be zero."
+    ],
+    "answer": 1,
+    "answer_text": "They have equal magnitude and are pointed in opposite directions.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_006"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "An object of mass 2 kg is acted upon by three external forces, each of magnitude 4 N. Which of the following could NOT be the resulting acceleration of the object?",
+    "choices": [
+      "0 m/s^2",
+      "2 m/s^2",
+      "4 m/s^2",
+      "8 m/s^2"
+    ],
+    "answer": 3,
+    "answer_text": "8 m/s^2",
+    "question_type": "formula_based",
+    "question_id": "formula_based_007"
+  },
+  {
+    "subset": "college_physics",
+    "split": "validation",
+    "question": "Electromagnetic radiation emitted from a nucleus is most likely to be in the form of",
+    "choices": [
+      "gamma rays",
+      "microwaves",
+      "ultraviolet radiation",
+      "visible light"
+    ],
+    "answer": 0,
+    "answer_text": "gamma rays",
+    "question_type": "formula_based",
+    "question_id": "formula_based_008"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "In which of the following situations involving a source of sound and a detector of the sound is it possible that there is NO perceived Doppler shift?",
+    "choices": [
+      "The source travels toward the stationary detector.",
+      "The detector travels toward the stationary source.",
+      "Both the source and detector travel in the same direction.",
+      "Both the source and detector travel in opposite directions, with the source and detector moving away from each other."
+    ],
+    "answer": 2,
+    "answer_text": "Both the source and detector travel in the same direction.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_009"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A uniform solid disk starts from rest and rolls down an inclined plane without slipping. After some time, what fraction of the disk\u2019s total kinetic energy is rotational kinetic energy?",
+    "choices": [
+      "1/4",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": 1,
+    "answer_text": "1/3",
+    "question_type": "formula_based",
+    "question_id": "formula_based_010"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A beam of electrons has speed 10^7 m/s. It is desired to use the magnetic field of the Earth, 5 \u00d7 10\u22125 T, to bend the electron beam into a circle. What will be the radius of this circle?",
+    "choices": [
+      "1 nm",
+      "1 \u03bcm",
+      "1 mm",
+      "1 m"
+    ],
+    "answer": 3,
+    "answer_text": "1 m",
+    "question_type": "formula_based",
+    "question_id": "formula_based_011"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Above an infinitely large plane carrying charge density \u03c3, the electric field points up and is equal to \u03c3/2\u03b5o. What is the magnitude and direction of the electric field below the plane?",
+    "choices": [
+      "\u03c3/2\u03b5o, down",
+      "\u03c3/2\u03b5o, up",
+      "\u03c3/\u03b5o, down",
+      "\u03c3/\u03b5o, up"
+    ],
+    "answer": 0,
+    "answer_text": "\u03c3/2\u03b5o, down",
+    "question_type": "formula_based",
+    "question_id": "formula_based_012"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A particle of mass m and charge Q and velocity V is directed toward a uniform electric field of strength E and travels a distance d. How far does the particle travel if the original velocity is doubled and the mass is cut in half?",
+    "choices": [
+      "4d",
+      "2d",
+      "d",
+      "1/2d"
+    ],
+    "answer": 1,
+    "answer_text": "2d",
+    "question_type": "formula_based",
+    "question_id": "formula_based_013"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A confined ideal gas undergoes a cyclical process in three steps\u2014an isobaric step, followed by an isochoric step, followed by an isothermal step. Which of the following must be true?",
+    "choices": [
+      "The change in internal energy of the gas is equal to the work done during the isobaric step.",
+      "The change in internal energy of the gas is equal to the work done during the isobaric step minus the work done during the isothermal step.",
+      "The total work done during the cycle is positive.",
+      "The total work done during the cycle is equal but opposite to the net amount of heat transferred."
+    ],
+    "answer": 3,
+    "answer_text": "The total work done during the cycle is equal but opposite to the net amount of heat transferred.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_014"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "The mass of the Earth is 5.97 \u00d7 10^24 kg. The Moon, whose center is 3.84 \u00d7 10^8 m from the Earth\u2019s center, has mass 7.35 \u00d7 10^22 kg. Which of the following is the best estimate of the gravitational force of the Earth on the Moon?",
+    "choices": [
+      "10^39 N",
+      "10^29 N",
+      "10^19 N",
+      "10^9 N"
+    ],
+    "answer": 2,
+    "answer_text": "10^19 N",
+    "question_type": "formula_based",
+    "question_id": "formula_based_015"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A photon strikes an electron of mass m that is initially at rest, creating an electron-positron pair. The photon is destroyed and the positron and two electrons move off at equal speeds along the initial direction of the photon. The energy of the photon was",
+    "choices": [
+      "mc^2",
+      "2mc^2",
+      "3mc^2",
+      "4mc^2"
+    ],
+    "answer": 3,
+    "answer_text": "4mc^2",
+    "question_type": "formula_based",
+    "question_id": "formula_based_016"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A solid sphere (I = 0.06 kg\u00b7m^2) spins freely around an axis through its center at an angular speed of 20 rad/s. It is desired to bring the sphere to rest by applying a friction force of magnitude 2.0 N to the sphere\u2019s outer surface, a distance of 0.30 m from the sphere\u2019s center. How much time will it take the sphere to come to rest?",
+    "choices": [
+      "4 s",
+      "2 s",
+      "0.06 s",
+      "0.03 s"
+    ],
+    "answer": 1,
+    "answer_text": "2 s",
+    "question_type": "formula_based",
+    "question_id": "formula_based_017"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Which of the following changes to a double-slit interference experiment would increase the widths of the fringes in the interference pattern that appears on the screen?",
+    "choices": [
+      "Use light of a shorter wavelength.",
+      "Move the screen closer to the slits.",
+      "Move the slits closer together.",
+      "Use light with a lower wave speed."
+    ],
+    "answer": 2,
+    "answer_text": "Move the slits closer together.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_018"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A gas cell with an optical path length of 10 cm is placed in one arm of a Michelson interferometer. If the light source for the interferometer is a laser with wavelength 632.2 nm, then 100 fringes are counted as the gas cell is evacuated. What is the index of refraction of the original gas?",
+    "choices": [
+      "1.00063",
+      "1.00032",
+      "1.00016",
+      "0.99968"
+    ],
+    "answer": 1,
+    "answer_text": "1.00032",
+    "question_type": "formula_based",
+    "question_id": "formula_based_019"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A sphere starts from rest atop a hill with a constant angle of inclination and is allowed to roll without slipping down the hill. What force provides the torque that causes the sphere to rotate?",
+    "choices": [
+      "Static friction",
+      "Kinetic friction",
+      "The normal force of the hill on the sphere",
+      "Gravity"
+    ],
+    "answer": 0,
+    "answer_text": "Static friction",
+    "question_type": "formula_based",
+    "question_id": "formula_based_020"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle\u2019s speed is 10 meters per second and is increasing at a rate of 10 meters per second squared. The angle between the particle\u2019s velocity and acceleration vectors is",
+    "choices": [
+      "0\u00b0",
+      "30\u00b0",
+      "45\u00b0",
+      "60\u00b0"
+    ],
+    "answer": 2,
+    "answer_text": "45\u00b0",
+    "question_type": "formula_based",
+    "question_id": "formula_based_021"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A nonconducting sphere is given a nonzero net electric charge, +Q, and then brought close to a neutral conducting sphere of the same radius. Which of the following will be true?",
+    "choices": [
+      "An electric field will be induced within the conducting sphere.",
+      "The conducting sphere will develop a net electric charge of \u2013Q.",
+      "The spheres will experience an electrostatic attraction.",
+      "The spheres will experience an electrostatic repulsion."
+    ],
+    "answer": 2,
+    "answer_text": "The spheres will experience an electrostatic attraction.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_022"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Standing waves are produced by a 100-Hz generator in a string of fixed length. The tension in the string is increased until a new set of standing waves is produced. Will the wavelength of the new standing waves be greater than or less than the wavelength of the original standing waves?",
+    "choices": [
+      "Less, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength.",
+      "Greater, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength.",
+      "Greater, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength.",
+      "Less, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength."
+    ],
+    "answer": 2,
+    "answer_text": "Greater, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_023"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A cannon is mounted on a truck that moves forward at a speed of 5 m/s. The operator wants to launch a ball from a cannon so the ball goes as far as possible before hitting the level surface. The muzzle velocity of the cannon is 50 m/s. At what angle from the horizontal should the operator point the cannon?",
+    "choices": [
+      "5\u00b0",
+      "41\u00b0",
+      "45\u00b0",
+      "49\u00b0"
+    ],
+    "answer": 3,
+    "answer_text": "49\u00b0",
+    "question_type": "formula_based",
+    "question_id": "formula_based_024"
+  },
+  {
+    "subset": "college_physics",
+    "split": "validation",
+    "question": "An ideal monatomic gas expands quasi-statically to twice its volume. If the process is isothermal, the work done by the gas is Wi. If the process is adiabatic, the work done by the gas is Wa. Which of the following is true?",
+    "choices": [
+      "Wi = Wa",
+      "0 = Wi  < Wa",
+      "0 < Wi < Wa",
+      "0<Wa <Wi"
+    ],
+    "answer": 3,
+    "answer_text": "0<Wa <Wi",
+    "question_type": "formula_based",
+    "question_id": "formula_based_025"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is",
+    "choices": [
+      "500 nm",
+      "550 nm",
+      "600 nm",
+      "650 nm"
+    ],
+    "answer": 2,
+    "answer_text": "600 nm",
+    "question_type": "formula_based",
+    "question_id": "formula_based_026"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "In a nonrelativistic, one-dimensional collision, a particle of mass 2m collides with a particle of mass m at rest. If the particles stick together after the collision, what fraction of the initial kinetic energy is lost in the collision?",
+    "choices": [
+      "0",
+      "1/4",
+      "1/3",
+      "1/2"
+    ],
+    "answer": 2,
+    "answer_text": "1/3",
+    "question_type": "formula_based",
+    "question_id": "formula_based_027"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A car starts from rest and uniformly accelerates to a final speed of 20.0 m/s in a time of 15.0 s. How far does the car travel during this time?",
+    "choices": [
+      "150 m ",
+      "300 m",
+      "450 m",
+      "600 m"
+    ],
+    "answer": 0,
+    "answer_text": "150 m ",
+    "question_type": "formula_based",
+    "question_id": "formula_based_028"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "The Space Shuttle orbits 300 km above the Earth\u2019s surface; the Earth\u2019s radius is 6400 km. What is the acceleration due to Earth\u2019s gravity experienced by the Space Shuttle?",
+    "choices": [
+      "4.9 m/s^2",
+      "8.9 m/s^2",
+      "9.8 m/s^2",
+      "10.8 m/s^2"
+    ],
+    "answer": 1,
+    "answer_text": "8.9 m/s^2",
+    "question_type": "formula_based",
+    "question_id": "formula_based_029"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "dev",
+    "question": "A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 \u00b5C, from the point (0, 4 meters) to the point (3 meters, 0)?",
+    "choices": [
+      "3.5 J",
+      "6.0 J",
+      "22.5 J",
+      "40 J"
+    ],
+    "answer": 1,
+    "answer_text": "6.0 J",
+    "question_type": "formula_based",
+    "question_id": "formula_based_030"
+  },
+  {
+    "subset": "college_physics",
+    "split": "validation",
+    "question": "During a hurricane, a 1,200 Hz warning siren on the town hall sounds. The wind is blowing at 55 m/s in a direction from the siren toward a person 1 km away. With what frequency does the sound wave reach the person? (The speed of sound in air is 330 m/s.)",
+    "choices": [
+      "1,000 Hz",
+      "1,030 Hz",
+      "1,200 Hz",
+      "1,400 Hz"
+    ],
+    "answer": 2,
+    "answer_text": "1,200 Hz",
+    "question_type": "formula_based",
+    "question_id": "formula_based_031"
+  },
+  {
+    "subset": "college_physics",
+    "split": "validation",
+    "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?",
+    "choices": [
+      "2",
+      "250",
+      "5,000",
+      "10,000"
+    ],
+    "answer": 1,
+    "answer_text": "250",
+    "question_type": "formula_based",
+    "question_id": "formula_based_032"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "An atom has filled n = 1 and n = 2 levels. How many electrons does the atom have?",
+    "choices": [
+      "2",
+      "4",
+      "6",
+      "10"
+    ],
+    "answer": 3,
+    "answer_text": "10",
+    "question_type": "formula_based",
+    "question_id": "formula_based_033"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "In an experiment designed to study the photoelectric effect, it is observed that low-intensity visible light of wavelength 550 nm produced no photoelectrons. Which of the following best describes what would occur if the intensity of this light were increased dramatically?",
+    "choices": [
+      "Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons.",
+      "Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal.",
+      "After several seconds, necessary for the electrons to absorb sufficient energy from the incident light, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal.",
+      "Nothing would happen."
+    ],
+    "answer": 3,
+    "answer_text": "Nothing would happen.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_034"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a",
+    "choices": [
+      "square",
+      "hexagon",
+      "cube",
+      "tetrahedron"
+    ],
+    "answer": 3,
+    "answer_text": "tetrahedron",
+    "question_type": "formula_based",
+    "question_id": "formula_based_035"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The best type of laser with which to do spectroscopy over a range of visible wavelengths is",
+    "choices": [
+      "a dye laser",
+      "a helium-neon laser",
+      "an excimer laser",
+      "a ruby laser"
+    ],
+    "answer": 0,
+    "answer_text": "a dye laser",
+    "question_type": "formula_based",
+    "question_id": "formula_based_036"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "validation",
+    "question": "A swimmer is able to propel himself forward through the water by moving his arms. Which of the following correctly states the applicant and recipient of the force responsible for the swimmer\u2019s forward acceleration?",
+    "choices": [
+      "The force of the surrounding water on the swimmer\u2019s arms",
+      "The force of the swimmer\u2019s arms on the swimmer\u2019s torso",
+      "The force of the swimmer\u2019s arms on the surrounding water",
+      "The force of the swimmer\u2019s torso on the swimmer\u2019s arms"
+    ],
+    "answer": 0,
+    "answer_text": "The force of the surrounding water on the swimmer\u2019s arms",
+    "question_type": "formula_based",
+    "question_id": "formula_based_037"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Which of the following changes to a circuit will always bring about an increase in the current?",
+    "choices": [
+      "Increased voltage and increased resistance",
+      "Decreased voltage and decreased resistance",
+      "Increased voltage and decreased resistance",
+      "Decreased voltage and increased resistance"
+    ],
+    "answer": 0,
+    "answer_text": "Increased voltage and increased resistance",
+    "question_type": "formula_based",
+    "question_id": "formula_based_038"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons",
+    "choices": [
+      "exactly 10 times",
+      "an average of 10 times, with an rms deviation of about 0.1",
+      "an average of 10 times, with an rms deviation of about 1",
+      "an average of 10 times, with an rms deviation of about 3"
+    ],
+    "answer": 3,
+    "answer_text": "an average of 10 times, with an rms deviation of about 3",
+    "question_type": "formula_based",
+    "question_id": "formula_based_039"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A girl of mass m and a boy of mass 2m are sitting on opposite sides of a see-saw with its fulcrum in the center. Right now, the boy and girl are equally far from the fulcrum, and it tilts in favor of the boy. Which of the following would NOT be a possible method to balance the see-saw?",
+    "choices": [
+      "Move the boy to half his original distance from the fulcrum.",
+      "Move the girl to double her original distance from the fulcrum.",
+      "Allow a second girl of mass m to join the first.",
+      "Move the fulcrum to half its original distance from the boy."
+    ],
+    "answer": 3,
+    "answer_text": "Move the fulcrum to half its original distance from the boy.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_040"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The primary source of the Sun\u2019s energy is a series of thermonuclear reactions in which the energy produced is c^2 times the mass difference between",
+    "choices": [
+      "two hydrogen atoms and one helium atom",
+      "four hydrogen atoms and one helium atom",
+      "six hydrogen atoms and two helium atoms",
+      "three helium atoms and one carbon atom"
+    ],
+    "answer": 1,
+    "answer_text": "four hydrogen atoms and one helium atom",
+    "question_type": "formula_based",
+    "question_id": "formula_based_041"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "An object is released from rest and falls a distance h during the first second of time. How far will it fall during the next second of time?",
+    "choices": [
+      "h",
+      "2h",
+      "3h",
+      "4h"
+    ],
+    "answer": 2,
+    "answer_text": "3h",
+    "question_type": "formula_based",
+    "question_id": "formula_based_042"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A string of fixed tension and linear mass density is attached to a vibrating speaker. It is observed that a speaker frequency of 60 Hz does not produce standing waves in the string. Which explanation for this phenomenon is correct?",
+    "choices": [
+      "The string length is not a multiple of half the wavelength of the wave.",
+      "The wave speed on the string is fixed.",
+      "60 Hz is in the lowest range of audible sound.",
+      "The wavelength of the wave produced by the speaker is equal to the speed of waves on the string divided by 60 Hz."
+    ],
+    "answer": 0,
+    "answer_text": "The string length is not a multiple of half the wavelength of the wave.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_043"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A circuit consists of a battery and a light bulb. At first, the circuit is disconnected. Then, the circuit is connected, and the light bulb lights. After the light bulb has been lit for a few moments, how has the net charge residing on the circuit elements changed?",
+    "choices": [
+      "The net charge has become more positive.",
+      "The net charge has become more negative.",
+      "The net charge has not changed.",
+      "Whether the net charge becomes more positive or more negative depends on the initial net charge residing on the circuit elements before the bulb was lit."
+    ],
+    "answer": 2,
+    "answer_text": "The net charge has not changed.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_044"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": 3,
+    "answer_text": "5",
+    "question_type": "formula_based",
+    "question_id": "formula_based_045"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Two people, one of mass 100 kg and the other of mass 50 kg, stand facing each other on an ice-covered (essentially frictionless) pond. If the heavier person pushes on the lighter one with a force F, then",
+    "choices": [
+      "the force felt by the heavier person is (-1/2)F",
+      "the force felt by the person is -2F",
+      "the magnitude of the acceleration of the lighter person will be half of the magnitude of the acceleration of the heavier person",
+      "the magnitude of the acceleration of the lighter person will be twice the magnitude of the acceleration of the heavier person"
+    ],
+    "answer": 3,
+    "answer_text": "the magnitude of the acceleration of the lighter person will be twice the magnitude of the acceleration of the heavier person",
+    "question_type": "formula_based",
+    "question_id": "formula_based_046"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A gas undergoes an expansion-compression cycle. If, plotted on a P-V diagram, the cycle is counterclockwise and the work is 300 J in magnitude, what was the heat transfer during this cycle?",
+    "choices": [
+      "300 J into the system",
+      "300 J out of the system",
+      "600 J into the system",
+      "600 J out of the system"
+    ],
+    "answer": 1,
+    "answer_text": "300 J out of the system",
+    "question_type": "formula_based",
+    "question_id": "formula_based_047"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Optometrists use a linear scale of lens power, measured in diopters, to prescribe corrective lenses. Sufferers of myopia, or nearsightedness, have difficulty resolving distant objects because the lenses in their eyes are too strong. If a myopic person has a prescription of -5 diopters, what image do her corrective lenses create for distant objects?",
+    "choices": [
+      "An upright, real image about 20 cm in front of her eyes",
+      "An upright, virtual image about 20 cm in front of her eyes",
+      "An inverted, real image about 20 cm behind her eyes",
+      "An inverted, virtual image 5 cm behind her eyes"
+    ],
+    "answer": 1,
+    "answer_text": "An upright, virtual image about 20 cm in front of her eyes",
+    "question_type": "formula_based",
+    "question_id": "formula_based_048"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A beam of monochromatic light entering a glass window pane from the air will experience a change in",
+    "choices": [
+      "frequency and wavelength",
+      "speed and wavelength",
+      "speed only",
+      "wavelength only"
+    ],
+    "answer": 1,
+    "answer_text": "speed and wavelength",
+    "question_type": "formula_based",
+    "question_id": "formula_based_049"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the cavity is increased by a factor of two, the mass of ice that can be melted in a fixed amount of time is increased by a factor of",
+    "choices": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": 3,
+    "answer_text": "16",
+    "question_type": "formula_based",
+    "question_id": "formula_based_050"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "validation",
+    "question": "An arrow is aimed horizontally, directly at the center of a target 20 m away. The arrow hits 0.050 m below the center of the target. Neglecting air resistance, what was the initial speed of the arrow?",
+    "choices": [
+      "20 m/s",
+      "40 m/s",
+      "100 m/s",
+      "200 m/s"
+    ],
+    "answer": 3,
+    "answer_text": "200 m/s",
+    "question_type": "formula_based",
+    "question_id": "formula_based_051"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "validation",
+    "question": "An equal number of hydrogen and carbon dioxide molecules are placed in a sealed container. The gases are initially at a temperature of 300 K when the container is placed in an oven and brought to a new equilibrium temperature of 600 K. Which of the following best describes what is happening to the molecular speeds and kinetic energies of the gases\u2019 molecules as they move from 300 K to 600 K?",
+    "choices": [
+      "The molecules of both gases, on average, end with the speed and the same average kinetic energy.",
+      "The molecules of hydrogen, on average, end with a higher speed, but the molecules of both gases end with the same average kinetic energy.",
+      "The molecules of hydrogen, on average, speed up more and end with a higher average kinetic energy.",
+      "As heat flows into the container, the entropy rises, and it is not possible to determine the average velocity and average kinetic energy of the gases."
+    ],
+    "answer": 1,
+    "answer_text": "The molecules of hydrogen, on average, end with a higher speed, but the molecules of both gases end with the same average kinetic energy.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_052"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A net force F_A acts on object A, and a net force F_B acts on object B. The mass of object B is twice the mass of object A, and the acceleration of object B is twice that of object A. Which of the following is true of forces F_A and F_B?",
+    "choices": [
+      "F_B = 1/4 F_A",
+      "F_B = 1/2 F_A",
+      "F_B = 2F_A",
+      "F_B = 4F_A"
+    ],
+    "answer": 3,
+    "answer_text": "F_B = 4F_A",
+    "question_type": "formula_based",
+    "question_id": "formula_based_053"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A particle decays in 2.0 ms in its rest frame. If the same particle moves at v=0.60c in the lab frame, how far will it travel in the lab before decaying?",
+    "choices": [
+      "150 m",
+      "288 m",
+      "360 m",
+      "450 m"
+    ],
+    "answer": 3,
+    "answer_text": "450 m",
+    "question_type": "formula_based",
+    "question_id": "formula_based_054"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "An electric motor has a label on it that reads: Input: 120V AC, 1.0 Amps, 60 Hz - Efficiency - 75%. At what constant speed can the motor lift up a 6 kg mass?",
+    "choices": [
+      "0.5 m/s",
+      "1.0 m/s",
+      "1.5 m/s",
+      "2.0 m/s"
+    ],
+    "answer": 2,
+    "answer_text": "1.5 m/s",
+    "question_type": "formula_based",
+    "question_id": "formula_based_055"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Physics students are checking the constant acceleration equations of kinematics by measuring the velocity of a tennis ball that is dropped and falls 6 meters and then passes through a photogate. The predicted velocity is 20% above the velocity measured by the photogate. Which of the following best describes the cause of the large percent difference?",
+    "choices": [
+      "The ball changes its shape while falling.",
+      "The acceleration of gravity varies as the ball is falling.",
+      "Air resistance increases the acceleration of the ball.",
+      "The acceleration of the balls varies with the velocity."
+    ],
+    "answer": 3,
+    "answer_text": "The acceleration of the balls varies with the velocity.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_056"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are",
+    "choices": [
+      "decreased by a factor of 9",
+      "decreased by a factor of 49",
+      "decreased by a factor of 81",
+      "increased by a factor of 9"
+    ],
+    "answer": 0,
+    "answer_text": "decreased by a factor of 9",
+    "question_type": "formula_based",
+    "question_id": "formula_based_057"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "Protons used in cancer therapy are typically accelerated to about 0.6c. How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?",
+    "choices": [
+      "0.25mc^2",
+      "0.60mc^2",
+      "0.67mc^2",
+      "1.25mc^2"
+    ],
+    "answer": 0,
+    "answer_text": "0.25mc^2",
+    "question_type": "formula_based",
+    "question_id": "formula_based_058"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "An object is placed 100 cm from a plane mirror. How far is the image from the object?",
+    "choices": [
+      "50 cm",
+      "100 cm",
+      "200 cm",
+      "300 cm"
+    ],
+    "answer": 2,
+    "answer_text": "200 cm",
+    "question_type": "formula_based",
+    "question_id": "formula_based_059"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A spring of force constant k is stretched a certain distance. It takes twice as much work to stretch a second spring by half this distance. The force constant of the second spring is",
+    "choices": [
+      "k",
+      "2k",
+      "4k",
+      "8k"
+    ],
+    "answer": 3,
+    "answer_text": "8k",
+    "question_type": "formula_based",
+    "question_id": "formula_based_060"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "dev",
+    "question": "A pipe full of air is closed at one end. A standing wave is produced in the pipe, causing the pipe to sound a note. Which of the following is a correct statement about the wave\u2019s properties at the closed end of the pipe?",
+    "choices": [
+      "The pressure is at a node, but the particle displacement is at an antinode.",
+      "The pressure is at an antinode, but the particle displacement is at a node.",
+      "The pressure and the particle displacement are both at nodes.",
+      "The pressure and the particle displacement are both at antinodes."
+    ],
+    "answer": 1,
+    "answer_text": "The pressure is at an antinode, but the particle displacement is at a node.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_061"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "In a spring-block oscillator, the maximum speed of the block is",
+    "choices": [
+      "proportional to amplitude",
+      "proportional to the square of amplitude",
+      "proportional to the square root of amplitude",
+      "inversely proportional to the square root of amplitude"
+    ],
+    "answer": 0,
+    "answer_text": "proportional to amplitude",
+    "question_type": "formula_based",
+    "question_id": "formula_based_062"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?",
+    "choices": [
+      "Magnetic susceptibility",
+      "Hall coefficient",
+      "Electrical resistivity",
+      "Thermal conductivity"
+    ],
+    "answer": 1,
+    "answer_text": "Hall coefficient",
+    "question_type": "formula_based",
+    "question_id": "formula_based_063"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Under what conditions is the net electric flux through a closed surface proportional to the enclosed charge?",
+    "choices": [
+      "under any conditions",
+      "only when the enclosed charge is symmetrically distributed",
+      "only when all nearby charges are symmetrically distributed",
+      "only when there are no charges outside the surface"
+    ],
+    "answer": 0,
+    "answer_text": "under any conditions",
+    "question_type": "formula_based",
+    "question_id": "formula_based_064"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are three times as long as those observed in the light from hydrogen atoms at rest in a laboratory on Earth. If it is assumed that the shift is entirely due to the relative motion of 3C9 and Earth, the relative speed of the quasar is",
+    "choices": [
+      "2c",
+      "c",
+      "0.8c",
+      "0.5c"
+    ],
+    "answer": 2,
+    "answer_text": "0.8c",
+    "question_type": "formula_based",
+    "question_id": "formula_based_065"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A heat pump is to extract heat from an outdoor environment at 7\u00b0C and heat the environment indoors to 27\u00b0C. For each 15,000 J of heat delivered indoors, the smallest amount of work that must be supplied to the heat pump is approximately",
+    "choices": [
+      "500 J",
+      "1,000 J",
+      "1,100 J",
+      "2,000 J"
+    ],
+    "answer": 1,
+    "answer_text": "1,000 J",
+    "question_type": "formula_based",
+    "question_id": "formula_based_066"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "The weight of a box on the Earth is 80 N. What is the weight of the box on the moon if the moon has 1/80th the mass and 1/4th the radius of the Earth?",
+    "choices": [
+      "1 N",
+      "10 N",
+      "16 N",
+      "20 N"
+    ],
+    "answer": 2,
+    "answer_text": "16 N",
+    "question_type": "formula_based",
+    "question_id": "formula_based_067"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A tube of water is traveling at 1/2 c relative to the lab frame when a beam of light traveling in the same direction as the tube enters it. What is the speed of light in the water relative to the lab frame? (The index of refraction of water is 4/3.)",
+    "choices": [
+      "1/2 c",
+      "2/3 c",
+      "5/6 c",
+      "10/11 c"
+    ],
+    "answer": 3,
+    "answer_text": "10/11 c",
+    "question_type": "formula_based",
+    "question_id": "formula_based_068"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A person can stand outside on a cold day for hours without ill effect, but falling into a cold lake can kill a person in a matter of minutes. Which of the following is the primary reason for this phenomenon?",
+    "choices": [
+      "The molecules of the person are, on average, moving faster than those of the surroundings.",
+      "Thermal energy moves from high concentration areas (hot) to low concentration areas (cold).",
+      "As heat flows out of the person and warms the fluid surrounding the person, the warmer fluid rises, allowing fresh cool fluid to come in contact with the person and increasing the rate of heat transfer.",
+      "Water has more molecules per volume than air, increasing molecular contact with the person."
+    ],
+    "answer": 3,
+    "answer_text": "Water has more molecules per volume than air, increasing molecular contact with the person.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_069"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A 30 mF capacitor has 6 millicoulombs of charge on each plate. The energy stored in the capacitor is most nearly",
+    "choices": [
+      "5.4 \u00d7 10\u201310 J",
+      "9.0 \u00d7 10\u20138 J",
+      "0.6 J",
+      "12.5 J"
+    ],
+    "answer": 2,
+    "answer_text": "0.6 J",
+    "question_type": "formula_based",
+    "question_id": "formula_based_070"
+  },
+  {
+    "subset": "college_physics",
+    "split": "validation",
+    "question": "Fermat\u2019s principle of ray optics states, \u201cA ray of light follows the path between two points which requires the least time.\u201d This principle can be used to derive which of the following?\r\nI. Snell\u2019s law of refraction\r\nII. The law of reflection\r\nIII. Rayleigh\u2019s criterion for resolution",
+    "choices": [
+      "I only",
+      "II only",
+      "III only",
+      "I and II"
+    ],
+    "answer": 3,
+    "answer_text": "I and II",
+    "question_type": "formula_based",
+    "question_id": "formula_based_071"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A children\u2019s toy consists of a cart whose very light wheels are attached to a rubber band. This rubber band can wind and unwind around the axle supporting the wheels. This toy is given a shove, after which the toy rolls across a flat surface and up a ramp. It is observed that the toy does not go a consistent distance up the ramp\u2014in some trials it ends up higher than in other trials, even though the shove imparts the same kinetic energy to the cart each time. Which of the following is a reasonable explanation for this phenomenon?",
+    "choices": [
+      "Depending on how the rubber band is initially wound, more or less potential energy can be transferred from the rubber band to the kinetic energy of the car\u2019s motion.",
+      "The normal force on the cart\u2019s wheels will be different depending on how much the rubber band winds or unwinds.",
+      "How much energy is transferred from kinetic energy to gravitational potential energy depends on the vertical height at which the cart ends up.",
+      "Some of the cart\u2019s initial kinetic energy will be dissipated due to work done by friction."
+    ],
+    "answer": 0,
+    "answer_text": "Depending on how the rubber band is initially wound, more or less potential energy can be transferred from the rubber band to the kinetic energy of the car\u2019s motion.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_072"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "validation",
+    "question": "A projectile is launched on level ground in a parabolic path so that its range would normally be 500 m. When the projectile is at the peak of its flight, the projectile breaks into two pieces of equal mass. One of these pieces falls straight down, with no further horizontal motion. How far away from the launch point does the other piece land?",
+    "choices": [
+      "250 m",
+      "375 m",
+      "500 m",
+      "750 m"
+    ],
+    "answer": 3,
+    "answer_text": "750 m",
+    "question_type": "formula_based",
+    "question_id": "formula_based_073"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be the new rate of energy dissipation?",
+    "choices": [
+      "0.25 W",
+      "0.5 W",
+      "1 W",
+      "4 W"
+    ],
+    "answer": 3,
+    "answer_text": "4 W",
+    "question_type": "formula_based",
+    "question_id": "formula_based_074"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A convex lens of focal length f = 0.2 m is used to examine a small coin lying on a table. During the examination, the lens is held a distance 0.3 m above the coin and is moved slowly to a distance of 0.1 m above the coin. During this process, what happens to the image of the coin?",
+    "choices": [
+      "The image continually increases in size.",
+      "The image continually decreases in size.",
+      "The image gets smaller at first and then bigger in size.",
+      "The image flips over."
+    ],
+    "answer": 3,
+    "answer_text": "The image flips over.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_075"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Which of the following statements about images is true?",
+    "choices": [
+      "Images produced by concave lenses are always real.",
+      "Images produced by concave mirros are always real.",
+      "Images produced by convex lenses can be both real and virtual.",
+      "Images produced by convex mirrors can be both real and virtual."
+    ],
+    "answer": 2,
+    "answer_text": "Images produced by convex lenses can be both real and virtual.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_076"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "The Space Shuttle orbits 300 km above Earth\u2019s surface; Earth\u2019s radius is 6,400 km. What is the gravitational acceleration experienced by the Space Shuttle?",
+    "choices": [
+      "Zero",
+      "4.9 m/s^2",
+      "9.8 m/s^2",
+      "8.9 m/s^2"
+    ],
+    "answer": 3,
+    "answer_text": "8.9 m/s^2",
+    "question_type": "formula_based",
+    "question_id": "formula_based_077"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A cylinder with a movable piston contains a gas at pressure P = 1 \u00d7 10^5 Pa, volume V = 20 cm^3, and temperature T = 273 K. The piston is moved downward in a slow steady fashion allowing heat to escape the gas and the temperature to remain constant. If the final volume of the gas is 5 cm^3, what will be the resulting pressure?",
+    "choices": [
+      "0.25 \u00d7 10^5 Pa",
+      "2 \u00d7 10^5 Pa",
+      "4 \u00d7 10^5 Pa",
+      "8 \u00d7 10^5 Pa"
+    ],
+    "answer": 2,
+    "answer_text": "4 \u00d7 10^5 Pa",
+    "question_type": "formula_based",
+    "question_id": "formula_based_078"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Spring scales are used to measure the net force applied to an object; a sonic motion detector is used to measure the object\u2019s resulting acceleration. A graph is constructed with the net force on the vertical axis and the acceleration on the horizontal axis. Which of the following quantities is directly measured using the slope of this graph?",
+    "choices": [
+      "Gravitational mass",
+      "Weight",
+      "Velocity",
+      "Inertial mass"
+    ],
+    "answer": 3,
+    "answer_text": "Inertial mass",
+    "question_type": "formula_based",
+    "question_id": "formula_based_079"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "dev",
+    "question": "A microwave oven is connected to an outlet, 120 V, and draws a current of 2 amps. At what rate is energy being used by the microwave oven?",
+    "choices": [
+      "10 W",
+      "30 W",
+      "60 W",
+      "240 W"
+    ],
+    "answer": 3,
+    "answer_text": "240 W",
+    "question_type": "formula_based",
+    "question_id": "formula_based_080"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Which of the following concerning uniform circular motion is true?",
+    "choices": [
+      "The centrifugal force is the action-reaction pair of the centripetal force.",
+      "The centripetal acceleration and velocity point in the same direction.",
+      "The velocity of the object in motion changes whereas the acceleration of the object is constant.",
+      "A satellite undergoing uniform circular motion is falling toward the center in a circular path."
+    ],
+    "answer": 3,
+    "answer_text": "A satellite undergoing uniform circular motion is falling toward the center in a circular path.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_081"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?",
+    "choices": [
+      "V_0/5",
+      "V_0/3",
+      "V_0/2",
+      "2V_0/3"
+    ],
+    "answer": 3,
+    "answer_text": "2V_0/3",
+    "question_type": "formula_based",
+    "question_id": "formula_based_082"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is applied across this combination, the total energy stored in the two capacitors is",
+    "choices": [
+      "0.09 J",
+      "0.18 J",
+      "0.27 J",
+      "0.41 J"
+    ],
+    "answer": 0,
+    "answer_text": "0.09 J",
+    "question_type": "formula_based",
+    "question_id": "formula_based_083"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "validation",
+    "question": "A spherical conductor carries a net charge. How is this charge distributed on the sphere?",
+    "choices": [
+      "The charge is evenly distributed on the surface.",
+      "The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere.",
+      "The charge moves continually within the sphere.",
+      "The charge is distributed uniformly throughout the sphere."
+    ],
+    "answer": 1,
+    "answer_text": "The charge resides on the surface only; the distribution of charge on the surface depends on what other charged objects are near the sphere.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_084"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A horse is attached to a cart that is at rest behind it. Which force, or combination of forces, explains how the horse-cart system can accelerate from rest?",
+    "choices": [
+      "The forward static friction force of the ground on the horse is greater than any friction forces acting backward on the cart, providing a forward acceleration.",
+      "The forward force of the horse on the cart is greater than the backward force of the cart on the horse, providing a forward acceleration.",
+      "The force of the horse\u2019s muscles on the rest of the horse-cart system provides the necessary acceleration.",
+      "The upward normal force of the ground on the horse is greater than the horse\u2019s weight, providing an upward acceleration."
+    ],
+    "answer": 0,
+    "answer_text": "The forward static friction force of the ground on the horse is greater than any friction forces acting backward on the cart, providing a forward acceleration.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_085"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "validation",
+    "question": "A spherical balloon filled with helium is floating in air. If the balloon is inflated until its radius is doubled, how will the buoyant force on the balloon be affected?",
+    "choices": [
+      "It will decrease by a factor of 4.",
+      "It will increase by a factor of 4.",
+      "It will increase by a factor of 8.",
+      "It will not be affected."
+    ],
+    "answer": 2,
+    "answer_text": "It will increase by a factor of 8.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_086"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The eigenvalues of a Hermitian operator are always",
+    "choices": [
+      "real",
+      "imaginary",
+      "degenerate",
+      "linear"
+    ],
+    "answer": 0,
+    "answer_text": "real",
+    "question_type": "formula_based",
+    "question_id": "formula_based_087"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A horizontal spring-block oscillator is in motion when a second block of equal mass falls on top of the oscillating block. If the two blocks stick together, what effect will this have on the amplitude of the oscillations?",
+    "choices": [
+      "It will increase the amplitude.",
+      "It will decrease the amplitude.",
+      "It will have no effect.",
+      "It would depend on where the original block was in its cycle when the second block fell."
+    ],
+    "answer": 3,
+    "answer_text": "It would depend on where the original block was in its cycle when the second block fell.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_088"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A rigid, solid container of constant volume holds an ideal gas of volume v1 and temperature T1 and pressure P1. The temperature is increased in an isochoric process. Which of the following is NOT true?",
+    "choices": [
+      "The average speed of the molecules increases.",
+      "The pressure increases.",
+      "The kinetic energy of the system increases.",
+      "The volume increases."
+    ],
+    "answer": 3,
+    "answer_text": "The volume increases.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_089"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein\u2019s theory of the photoelectric effect predicts that the",
+    "choices": [
+      "work function of the metal is proportional to the frequency",
+      "work function of the metal is proportional to the wavelength",
+      "current in the tube is a linear function of the wavelength",
+      "potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency"
+    ],
+    "answer": 3,
+    "answer_text": "potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency",
+    "question_type": "formula_based",
+    "question_id": "formula_based_090"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A bi-convex lens has a radius of curvature of magnitude 20 cm. Which of the following best describes the image formed of an object of height 2 cm placed 30 cm from the lens?",
+    "choices": [
+      "Real, inverted, height = 1 cm",
+      "Virtual, upright, height = 0.25 cm",
+      "Real, upright, height = 1 cm",
+      "Virtual, inverted, height = 0.25 cm"
+    ],
+    "answer": 0,
+    "answer_text": "Real, inverted, height = 1 cm",
+    "question_type": "formula_based",
+    "question_id": "formula_based_091"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)",
+    "choices": [
+      "0.1 eV",
+      "1 eV",
+      "10 eV",
+      "100 eV"
+    ],
+    "answer": 2,
+    "answer_text": "10 eV",
+    "question_type": "formula_based",
+    "question_id": "formula_based_092"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "Two ice skaters are moving on frictionless ice and are about to collide. The 50-kg skater is moving directly west at 4 m/s. The 75-kg skater is moving directly north at 2 m/s. After the collision they stick together. For this scenario, which of the following is true?",
+    "choices": [
+      "The linear momentum of the system is conserved because the net force on the system is nonzero during the collision.",
+      "Only the kinetic energy of the system is conserved because it is an inelastic collision.",
+      "Only the kinetic energy of the system is conserved because it is an elastic collision.",
+      "The linear momentum of the system is conserved because the net force on the system is zero."
+    ],
+    "answer": 3,
+    "answer_text": "The linear momentum of the system is conserved because the net force on the system is zero.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_093"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?",
+    "choices": [
+      "2",
+      "250",
+      "5,000",
+      "10,000"
+    ],
+    "answer": 1,
+    "answer_text": "250",
+    "question_type": "formula_based",
+    "question_id": "formula_based_094"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "It is known that a lab cart is moving east at 25 cm/s at time t1 = 0.10 s, and then moving east at 15 cm/s at t2 = 0.20 s. Is this enough information to determine the direction of the net force acting on the cart between t1 and t2?",
+    "choices": [
+      "Yes, since we know the cart is slowing down, its momentum change is opposite the direction of movement, and the net force is in the direction of momentum change.",
+      "No, because we don\u2019t know whether forces such as friction or air resistance might be acting on the cart.",
+      "No, because we don\u2019t know the mass of the cart.",
+      "Yes, since we know the cart keeps moving to the east, the net force must be in the direction of motion."
+    ],
+    "answer": 0,
+    "answer_text": "Yes, since we know the cart is slowing down, its momentum change is opposite the direction of movement, and the net force is in the direction of momentum change.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_095"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "validation",
+    "question": "In the laboratory, a cart experiences a single horizontal force as it moves horizontally in a straight line. Of the following data collected about this experiment, which is sufficient to determine the work done on the cart by the horizontal force?",
+    "choices": [
+      "The magnitude of the force, the cart\u2019s initial speed, and the cart\u2019s final speed",
+      "The mass of the cart and the distance the cart moved",
+      "The mass of the cart, the cart\u2019s initial speed, and the cart\u2019s final speed",
+      "The mass of the cart and the magnitude of the force"
+    ],
+    "answer": 2,
+    "answer_text": "The mass of the cart, the cart\u2019s initial speed, and the cart\u2019s final speed",
+    "question_type": "formula_based",
+    "question_id": "formula_based_096"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is",
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 0,
+    "answer_text": "5",
+    "question_type": "formula_based",
+    "question_id": "formula_based_097"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is",
+    "choices": [
+      "1.2 * 10^9 m/s",
+      "3.0 * 10^8 m/s",
+      "1.5 * 10^8 m/s",
+      "1.0 * 10^8 m/s"
+    ],
+    "answer": 2,
+    "answer_text": "1.5 * 10^8 m/s",
+    "question_type": "formula_based",
+    "question_id": "formula_based_098"
+  },
+  {
+    "subset": "high_school_physics",
+    "split": "test",
+    "question": "A body moving in the positive x direction passes the origin at time t = 0. Between t = 0 and t = 1 second, the body has a constant speed of 24 meters per second. At t = 1 second, the body is given a constant acceleration of 6 meters per second squared in the negative x direction. The position x of the body at t = 11 seconds is",
+    "choices": [
+      "99m",
+      "36m",
+      "-36m",
+      "-99m"
+    ],
+    "answer": 2,
+    "answer_text": "-36m",
+    "question_type": "formula_based",
+    "question_id": "formula_based_099"
+  },
+  {
+    "subset": "college_physics",
+    "split": "test",
+    "question": "Which of the following is true about any system that undergoes a reversible thermodynamic process?",
+    "choices": [
+      "There are no changes in the internal energy of the system.",
+      "The temperature of the system remains constant during the process.",
+      "The entropy of the system and its environment remains unchanged.",
+      "The entropy of the system and its environment must increase."
+    ],
+    "answer": 2,
+    "answer_text": "The entropy of the system and its environment remains unchanged.",
+    "question_type": "formula_based",
+    "question_id": "formula_based_100"
+  }
+]
