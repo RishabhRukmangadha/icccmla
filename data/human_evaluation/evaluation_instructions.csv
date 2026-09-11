@@ -1,0 +1,51 @@
+HUMAN EVALUATION SHEET — Physics Cascade System
+ICCCMLA 2026 — Answer Quality Assessment
+""
+INSTRUCTIONS FOR EVALUATORS
+""
+1. You will evaluate 30 physics questions.
+"2. For each question, read the question, options, and the SLM and/or Cloud answer."
+3. Use YOUR OWN PHYSICS KNOWLEDGE to assign scores — do not look up answers.
+4. Do NOT discuss with other evaluators — score independently.
+"5. The ""Correct Answer"" column is shown ONLY as a reference AFTER you score."
+"6. Fill in ONLY the columns marked ""Human Score"" based on the Category."
+""
+SCORING RUBRICS
+""
+GSS — Gap Severity Score (fill ONLY for MISSED questions)
+"Score 1 = Minor error — trivial mistake, student would likely self-correct"
+"Score 2 = Moderate error — meaningful misconception, would confuse a student"
+"Score 3 = Critical error — fundamentally wrong, would actively mislead a student"
+""
+EVS — Escalation Value Score (fill ONLY for ESCALATED questions)
+Score 0 = No value — cloud answer same quality as SLM answer
+"Score 1 = Marginal — minor improvement, not essential"
+Score 2 = Meaningful — clear correctness improvement over SLM
+"Score 3 = Critical — cloud answer essential, SLM was wrong or dangerously incomplete"
+""
+EQS — Explanation Quality Score (fill ONLY for ESCALATED CONCEPTUAL questions)
+Score 1 = Poor — no meaningful explanation provided
+"Score 2 = Basic — minimal explanation, hard to follow"
+Score 3 = Adequate — explains the concept sufficiently
+"Score 4 = Good — clear, accurate and well-structured explanation"
+"Score 5 = Excellent — thorough, pedagogically strong, ideal for a student"
+""
+"SANITY CHECK questions — no scoring needed, just verify the answer makes sense"
+""
+PHYSICS TOPICS COVERED
+High School Physics — Class 11-12 level (CBSE/ISC equivalent)
+"  Topics: Fluid dynamics, thermodynamics, waves, optics, electrostatics, mechanics"
+College Physics — First year undergraduate (BSc/BE level)
+"  Topics: Circuits, modern physics, rotational mechanics"
+"Conceptual Physics — Qualitative reasoning, no heavy calculation"
+"Astronomy — Stellar physics, cosmology basics"
+""
+IMPORTANT NOTES
+"- SLM = Small Language Model running on device (Gemma 3 1B, Gemma 3 4B, or Phi-3 Mini)"
+- Cloud = Claude Sonnet 4.5 (cloud validator)
+"- ESCALATED = SLM was uncertain, sent query to cloud for validation"
+"- MISSED = SLM answered confidently but incorrectly, did NOT escalate to cloud"
+- CORRECT LOCAL = SLM answered correctly without escalating (sanity check only)
+""
+Thank you for your participation. Your scores will be used in a published IEEE paper.
+Your name will NOT be published — only your general profile (physics educator).

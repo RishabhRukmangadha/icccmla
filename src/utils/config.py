@@ -15,7 +15,7 @@ SLM_MODELS = {
     "large":  os.getenv("SLM_LARGE",  "phi3:mini"),
 }
 
-# Cloud Validator (Anthropic Claude Opus)
+# Cloud Validator (Anthropic Claude Sonnet 4.5)
 CLOUD_VALIDATOR_MODEL = os.getenv(
     "CLOUD_VALIDATOR_MODEL",
     "claude-sonnet-4-5-20250929"
@@ -23,7 +23,7 @@ CLOUD_VALIDATOR_MODEL = os.getenv(
 
 
 
-# LLM Judge (OpenAI GPT-4o Mini)
+# LLM Judge (Anthropic Claude Sonnet 4.5)
 JUDGE_MODEL = os.getenv(
     "JUDGE_MODEL",
     "claude-sonnet-4-5-20250929"

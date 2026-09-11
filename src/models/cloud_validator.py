@@ -1,6 +1,6 @@
 """
 Cloud Validator Module
-Sends escalated questions to Claude Opus with extended thinking.
+Sends escalated questions to Claude Sonnet4.5 with extended thinking.
 Acts as the cloud LLM in the cascade architecture.
 """
 
@@ -21,7 +21,7 @@ from src.utils.logger import logger
 
 @dataclass
 class CloudResponse:
-    """Claude Opus validation result."""
+    """Claude Sonnet 4.5 validation result."""
     model:          str
     question_id:    str
     question_type:  str
@@ -40,7 +40,7 @@ class CloudResponse:
 
 def build_validator_prompt(question: dict) -> str:
     """
-    Build validation prompt for Claude Opus.
+    Build validation prompt for Claude Sonnect 4.5.
     More detailed than SLM prompt — asks for
     thorough reasoning and explanation.
     """
@@ -86,7 +86,7 @@ def parse_cloud_response(
     question_id: str
 ) -> tuple:
     """
-    Parse Claude Opus response.
+    Parse Claude Sonnect 4.5 response.
     Returns (answer, explanation, parse_success)
     """
 
@@ -133,12 +133,12 @@ def parse_cloud_response(
 
 
 # ─────────────────────────────────────────
-# Claude Opus Validator
+# Claude Sonnect 4.5 Validator
 # ─────────────────────────────────────────
 
 def run_cloud_validation(question: dict) -> CloudResponse:
     """
-    Send escalated question to Claude Opus.
+    Send escalated question to Claude Sonnect 4.5.
     Uses extended thinking for deep reasoning.
 
     Args:
@@ -162,7 +162,7 @@ def run_cloud_validation(question: dict) -> CloudResponse:
     start_time = time.time()
 
     try:
-        # Call Claude Opus with extended thinking
+        # Call Claude Sonnect 4.5 with extended thinking
         response = client.messages.create(
             model      = CLOUD_VALIDATOR_MODEL,
             max_tokens = 16000,
